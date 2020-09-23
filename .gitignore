@@ -1,0 +1,4 @@
+# pas de fichier .css et .map
+# seront ignorés
+*.css
+*.map
