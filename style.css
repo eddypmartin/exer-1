@@ -937,7 +937,36 @@ textarea {
 
 /* Mon site
 --------------------------------------------- */
+<<<<<<< HEAD
 .site-title {
   font-size: 10em;
+=======
+.site-branding {
+  font-family: arial;
+  line-height: 1.2;
+}
+
+.site-branding .site-title {
+  font-size: 8em;
+  margin: 0;
+  padding: 0;
+  /* .site-title a */
+}
+
+.site-branding .site-title a {
+  color: #ec6d12;
+}
+
+.site-branding .site-description {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+  color: #ec6d12;
+}
+
+.site {
+  margin: 0 auto;
+  width: 80%;
+>>>>>>> em-sass
 }
 /*# sourceMappingURL=style.css.map */
